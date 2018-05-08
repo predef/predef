@@ -1,0 +1,15 @@
+{
+  "name": "predef-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wiki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^6.0.0",
+    "node-fetch": "^2.1.2"
+  }
+}
